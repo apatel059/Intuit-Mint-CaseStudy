@@ -3,7 +3,7 @@
 
 ----
 
-![https://yalantis.com/uploads/ckeditor/pictures/4111/mint-app.png]
+![alt Mint](https://yalantis.com/uploads/ckeditor/pictures/4111/mint-app.png)
 
 ## Overview and  Origin:
 
